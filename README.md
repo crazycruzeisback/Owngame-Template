@@ -1,1 +1,2 @@
-# Owngame-Template
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
